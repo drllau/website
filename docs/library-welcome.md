@@ -33,7 +33,8 @@ sidebar_label: Welcome
 ## Augmented Intelligence & Computational Forensics
 * (**placeholder**) Nick Furneaux _Investigating Cryptocurrencies: Understanding, Extracting, and Analyzing Blockchain Evidence_ Wiley [ISBN 978-1-119-48058-7](https://openlibrary.org/works/OL19542592W/Investigating_Cryptocurrencies_Understanding_Extracting_and_Analyzing_Blockchain_Evidence)
 * Ian Goodfellow, Yoshua Bengio &amp; Aaron Courville (2017) _Deep Learning_ MIT Press [ISBN 978-0-262-03561-3](https://openlibrary.org/works/OL17801809W/Deep_(Learning)
-* (**nominated**) Shoshana Zuboff (2019) _The Age of Surveillance Capitalism: the fight for a human future at the new frontier of power_ Profile Books [ISBN 978-1-78125-685-5](https://openlibrary.or)g/works/OL18201749W/The_Age_of_Surveillance_Capitalism)
+* (**deprecated**) Shoshana Zuboff (2019) _The Age of Surveillance Capitalism: the fight for a human future at the new frontier of power_ Profile Books [ISBN 978-1-78125-685-5](https://openlibrary.or)g/works/OL18201749W/The_Age_of_Surveillance_Capitalism)
+* Noam NisanHebrew, Tim Roughgarden, ́Eva Tardos & Vijay Vazirani (eds) (2007) _Algorithmic Game Theory_ Cambridge University Press [ISBN 978-0-521-87282-9](https://openlibrary.org/works/OL16987504W/Algorithmic_game_theory)
 
 ## Systems Thinking
 * Jay Forester (1968) _Principles of Systems_ Pegasus Communications [ISBN 978-1-883-82341-2](https://openlibrary.org/works/OL4504426W/Principles_of_systems)
