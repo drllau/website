@@ -4,9 +4,10 @@ title: Welcome to the Token Engineering library!
 sidebar_label: Welcome
 ---
 
-![Knowledge Domains](https://user-images.githubusercontent.com/14944510/81488973-ca9f0d80-92a2-11ea-8d12-869382001b50.png)
 
 # Table of Contents
+
+![Knowledge Domains](https://user-images.githubusercontent.com/14944510/81488973-ca9f0d80-92a2-11ea-8d12-869382001b50.png)
 
 # Foundational Books
 ## Engineering Ethics
@@ -25,8 +26,14 @@ sidebar_label: Welcome
 * Mancur Olson Jr (1971) _The Logic of Collective Action: Public Goods and the Theory of Groups_ Harvard University Press [ISBN 0-674-53750-5](https://openlibrary.org/works/OL108561W/The_logic_of_collective_action)
 
 ## Cryptography for Distributed Systems
+* Larry DiMatteo, Michel Cannarsa, &amp; Cristina Poncibò (eds) (2019) _The Cambridge Handbook of Smart Contracts, Blockchain Technology and Digital Platforms_ Cambridge University Press [ISBN 978-1-108-59223-9](https://www.cambridge.org/core/books/cambridge-handbook-of-smart-contracts-blockchain-technology-and-digital-platforms/BCDDFAAD7B661E6C268941ACA76B3A58#fndtn-information)
+* Yoav Shoham & Kevin Leyton-Brown (2008) _Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations_ [ISBN 978-0-521-89943-7](https://openlibrary.org/works/OL4314065W/Multiagent_systems)
+* Henk van Tilborg & Sushil Jajodia (2011) _Encyclopedia of Cryptography and Security_ 2nd ed [ISBN 978-1-071-60402-1](https://openlibrary.org/books/OL27944678M/Encyclopedia_of_Cryptography_and_Security_2_Volumes_Set_2nd_Edition)
 
-## Augmented Intelligence
+## Augmented Intelligence & Computational Forensics
+* (**placeholder**) Nick Furneaux _Investigating Cryptocurrencies: Understanding, Extracting, and Analyzing Blockchain Evidence_ Wiley [ISBN 978-1-119-48058-7](https://openlibrary.org/works/OL19542592W/Investigating_Cryptocurrencies_Understanding_Extracting_and_Analyzing_Blockchain_Evidence)
+* Ian Goodfellow, Yoshua Bengio &amp; Aaron Courville (2017) _Deep Learning_ MIT Press [ISBN 978-0-262-03561-3](https://openlibrary.org/works/OL17801809W/Deep_(Learning)
+* (**nominated**) Shoshana Zuboff (2019) _The Age of Surveillance Capitalism: the fight for a human future at the new frontier of power_ Profile Books [ISBN 978-1-78125-685-5](https://openlibrary.or)g/works/OL18201749W/The_Age_of_Surveillance_Capitalism)
 
 ## Systems Thinking
 * Jay Forester (1968) _Principles of Systems_ Pegasus Communications [ISBN 978-1-883-82341-2](https://openlibrary.org/works/OL4504426W/Principles_of_systems)
@@ -41,7 +48,7 @@ sidebar_label: Welcome
 ## Game Theory
 * John von Neumann & Oskar Morgenstern (2007) _Theory of Games and Economic Behavior_ Princeton University Press [ISBN 978-0-691-13061-3](https://openlibrary.org/works/OL1204974W/Theory_of_games_and_economic_behavior)
 * (**deprecated**) Drew Fudenberg & Jean Tirole (1991) _Game Theory_ MIT Press [ISBN 978-0-262-06141-4](https://openlibrary.org/works/OL2727409W/Game_Theory)
-* Leonid Hurwicz & Stanley Reiter (2006) _Designing Economic Mechanisms_ Cambridge University Press [ISBN 0521836417](https://openlibrary.org/works/OL4545729W/Designing_economic_mechanisms)
+* Leonid Hurwicz & Stanley Reiter (2006) _Designing Economic Mechanisms_ Cambridge University Press [ISBN 0-521-83641-7](https://openlibrary.org/works/OL4545729W/Designing_economic_mechanisms)
 * Thomas Schelling (2006) _The Strategy of Conflict_ Harvard University Press [ISBN 978-0-674-84031-7](https://openlibrary.org/works/OL2259845W/The_strategy_of_conflict)
 
 # Papers & Repositories
@@ -51,5 +58,5 @@ sidebar_label: Welcome
 * [CryptoCannon](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
 # Reviews
-* Cambridge [Handbook](https://www.cambridge.org/core/books/cambridge-handbook-of-smart-contracts-blockchain-technology-and-digital-platforms/BCDDFAAD7B661E6C268941ACA76B3A58#fndtn-information) of Smart Contracts, Blockchain Technology & Digital Platforms
+Trent McConaghy (2018) _Towards a Practice of Token Engineering_ [blog](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca)
 
